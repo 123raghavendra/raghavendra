@@ -7,3 +7,4 @@ void printdetails(){
 System.out.println("name:"+name+"\n"+"dob:"+dob+"\n"+"age:"+age+"\n");
 }
 }
+raghavendra haratal 123
